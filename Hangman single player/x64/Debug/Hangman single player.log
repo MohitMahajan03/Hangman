@@ -1,0 +1,14 @@
+﻿  Source.c
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\mohit\source\repos\Hangman single player\Source.c(53,7): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\mohit\source\repos\Hangman single player\Source.c(65,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mohit\source\repos\Hangman single player\Source.c(70,8): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\mohit\source\repos\Hangman single player\Source.c(19,12): warning C4101: 's': unreferenced local variable
+C:\Users\mohit\source\repos\Hangman single player\Source.c(19,6): warning C4101: 'i': unreferenced local variable
+C:\Users\mohit\source\repos\Hangman single player\Source.c(123,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\mohit\source\repos\Hangman single player\Source.c(123,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\mohit\source\repos\Hangman single player\Source.c(123,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\mohit\source\repos\Hangman single player\Source.c(123,11): message : this argument is used as a buffer size
+C:\Users\mohit\source\repos\Hangman single player\Source.c(274,9): warning C4101: 'j': unreferenced local variable
+C:\Users\mohit\source\repos\Hangman single player\Source.c(274,6): warning C4101: 'i': unreferenced local variable
+  Hangman single player.vcxproj -> C:\Users\mohit\source\repos\Hangman single player\x64\Debug\Hangman single player.exe
